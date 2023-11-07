@@ -1,12 +1,12 @@
-# news_udemy
+# News API: READ DISCOVER INFORM
 
-A new Flutter project.
+It is a Flutter project that will provide the latest news whenever and wherever you want. It is easy to use and to operate. It will keep you updated about everything so that you can stay ahead of everyone.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Here are a few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
