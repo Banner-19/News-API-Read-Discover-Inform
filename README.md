@@ -2,7 +2,13 @@
 
 It is a Flutter project that will provide the latest news whenever and wherever you want. It is easy to use and to operate. It will keep you updated about everything so that you can stay ahead of everyone.
 
+## Screenshots of Project
+![Screenshot (21)](https://github.com/Banner-19/News-API-Read-Discover-Inform/assets/115279831/01a4e107-e4dc-4c59-bf1b-693a92cced65)
+![Screenshot (23)](https://github.com/Banner-19/News-API-Read-Discover-Inform/assets/115279831/c2627afb-6944-4a91-90b5-1200790952d5)
+
+
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
